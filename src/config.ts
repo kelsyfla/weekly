@@ -8,6 +8,6 @@ export const SITE = {
   homePage: "https://weekly-orcin.vercel.app/",
   blogPage: "https://weekly-orcin.vercel.app/",
   twitterId: "https://weekly-orcin.vercel.app/",
-  githubId: "kelsy",
+  githubId: "kelsyfla",
   repo: "kelsyfla/weekly",
 };
